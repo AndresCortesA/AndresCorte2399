@@ -41,8 +41,8 @@ func main(){
 
 ### Donde puedes encontrarme:
 
-<a href="https://twitter.com/cardel87" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="linkedin.com/in/andres-arias-792364229" target="_blank">
+<img src= https://user-images.githubusercontent.com/101019474/211182183-c9afd5c2-6c64-495c-9ca9-a275ddcbc7f3.png width= 70 height= 40 style="margin-bottom: 5px;" />
 </a>
 
 
