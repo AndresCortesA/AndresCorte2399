@@ -5,7 +5,7 @@ Interesado en data analytics y backend en java, actualmente me encuentro estudia
 ## Lenguajes en desarrollo y conocimiento:
 
 !<img src ="https://user-images.githubusercontent.com/101019474/211181587-4c3250a5-0e53-4be8-ba67-22d7015e702d.png" width="300" height="200"/>
-<img src ="https://user-images.githubusercontent.com/101019474/211181719-9d9f5aab-b858-42c3-b10c-770c3c232c57.png" width="300" height="200" />
+<img src ="https://user-images.githubusercontent.com/101019474/211182509-7c46295a-a5e3-4a24-9577-6a2ffa4e73c3.png" width="200" height="200" />
 <img src ="https://user-images.githubusercontent.com/101019474/211181881-6b64709d-632d-4c4e-aa10-7f9e14693637.png" width="300" height="200" />
 <img src ="https://user-images.githubusercontent.com/101019474/211181994-467be703-db78-48f3-8723-c65cd184e64e.png" width="300" height="200" />
 
@@ -38,6 +38,7 @@ func main(){
   f.Println("Hola mi gente")
 }
 ```
+[![AndresCorte2399's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresCorte2399)](https://github.com/AndresCorte2399/github-readme-stats)
 
 ### Donde puedes encontrarme:
 
