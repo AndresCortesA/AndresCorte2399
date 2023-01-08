@@ -1,12 +1,13 @@
 # Estudiante de desarrollo de software
 
-Interesado en en data analytics y backend en java, actualmente me encuentro estudiando y practicando spring, java avanzado, SQL, Go (golang).
+Interesado en en data analytics y backend en java, actualmente me encuentro estudiando y practicando spring, java avanzado, MySQL, Go (golang).
 
 ## Lenguajes en desarrollo y conocimiento:
 
 !<img src ="https://user-images.githubusercontent.com/101019474/211181587-4c3250a5-0e53-4be8-ba67-22d7015e702d.png" width="300" height="200"/>
-<img src="https://user-images.githubusercontent.com/101019474/211181719-9d9f5aab-b858-42c3-b10c-770c3c232c57.png" width="300" height="200" />
-
+<img src ="https://user-images.githubusercontent.com/101019474/211181719-9d9f5aab-b858-42c3-b10c-770c3c232c57.png" width="300" height="200" />
+<img src ="https://user-images.githubusercontent.com/101019474/211181881-6b64709d-632d-4c4e-aa10-7f9e14693637.png" width="300" height="200" />
+<img src ="https://user-images.githubusercontent.com/101019474/211181881-6b64709d-632d-4c4e-aa10-7f9e14693637.png" width="300" height="200" />
 
 ### JAVA
 ``` Java
