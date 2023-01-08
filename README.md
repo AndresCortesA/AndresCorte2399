@@ -4,6 +4,7 @@ Interesado en en data analytics y backend en java, actualmente me encuentro estu
 
 ## Lenguajes en desarrollo y conocimiento:
 
+![java](https://user-images.githubusercontent.com/101019474/211180092-d9038763-bb9a-4480-97b0-d301c1503915.jpeg)
 JAVA
 ``` Java
 public class Precio {
