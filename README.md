@@ -1,6 +1,6 @@
 # Estudiante de desarrollo de software
 
-Interesado en en data analytics y backend en java, actualmente me encuentro estudiando y practicando spring, java avanzado, MySQL, Go (golang).
+Interesado en data analytics y backend en java, actualmente me encuentro estudiando y practicando spring, java avanzado, MySQL, Go (golang).
 
 ## Lenguajes en desarrollo y conocimiento:
 
